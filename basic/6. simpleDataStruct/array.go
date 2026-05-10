@@ -115,5 +115,5 @@ func comp() {
 func main() {
 	// decl()
 	// traverse()
-	// comp()
+	comp()
 }
